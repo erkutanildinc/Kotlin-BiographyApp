@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BiographyApp</string>
+
+    <string name="myLifeParagraph1">  My name is Erkut Anıl Dinç. I was born on 6 January 2000 in Bergama,İzmir. I live in Antalya. I am a fourth grade Computer Engineer Student at Dokuz Eylul University now. My father used to be bank branch manager and My mother is financial advisor in dental clinic. I have a two years younger brother. He is also an university student at ITU. Furthermore we have a two years old cat whose name is Cupid.</string>
+
+    <string name="myLifeParagraph2">I have done many projects both by myself and with my friends so far. You can find some of these projects in the "My Projects" section. To talk about my internships, I did a 6-week internship in a company called "İzmir İnovasyon ve Teknoloji" in Izmir last summer. In this internship, I worked with Flutter and made the movie application called GoldenPopcorn, which you can see on my project page.</string>
+
+    <string name="myLifeParagraph3">To talk about my hobbies; I love watching movies and Tv Series. My favorite ones are Game of Thrones and Dark. I like walking in a new place, a new city. As I said I live in Antalya so swimming isalso one of my hobbies too. Furthermore I love playing video games with my friens and I love playing with my cat. </string>
+
+    <string name="linkedinURL">https://www.linkedin.com/in/erkut-anil-dinc/</string>
+    <string name="mail">erkutanil.dinc@gmail.com</string>
+    <string name="number">+90 5382029720</string>
+</resources>
